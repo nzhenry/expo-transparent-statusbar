@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-app-44",
-    "slug": "my-app-44",
+    "name": "transparent-statusbar",
+    "slug": "transparent-statusbar",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

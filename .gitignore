@@ -12,3 +12,9 @@ web-build/
 
 # macOS
 .DS_Store
+.idea/.gitignore
+.idea/modules.xml
+.idea/my-app-44.iml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+.idea
